@@ -68,3 +68,23 @@ nav ul a {
     border: none;
     position: relative;
 }
+
+@media (max-width: 400px) {
+    nav ul {
+        display: block;
+    }
+
+    nav ul a {
+        margin: 5px;
+    }
+}
+
+@media (max-width: 420px) {
+    nav ul {
+        display: block;
+    }
+
+    nav ul a {
+        margin: 5px;
+    }
+}
